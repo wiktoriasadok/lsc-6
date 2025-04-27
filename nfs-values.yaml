@@ -1,0 +1,4 @@
+storageClass:
+  name: nfs
+  defaultClass: true
+  
